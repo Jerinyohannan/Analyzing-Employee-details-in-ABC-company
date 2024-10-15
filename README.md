@@ -19,7 +19,8 @@ Correcting the data in the "height" column by replacing it with random numbers b
  Graphical Representation of the five analysis tasks done.and get more detailed analysis from the visualizations.
 
  # Insights
- Age between 25 and 35 are the most employees in the company more young peoples in this company. POsition C have more Salary and all positions have alomst equal level of Salary.
- SG has the more count among all.
- Cleveland Cavaliers has the high salary ratio than other teams :-106988689.0
+Trend in Age between 25 and 35 are the most employees in the company more young peoples in this company. 
+Position C have more Salary and all positions have alomst equal level of Salary.
+SG has the more count among all.
+Cleveland Cavaliers has the high salary ratio than other teams :-106988689.0
  
